@@ -1,0 +1,19 @@
+1:"$Sreact.fragment"
+2:I[47257,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3urocd201did3.js","/_next/static/chunks/0pyc2b04r1ucd.js","/_next/static/chunks/1_kdzz48cb5_0.js"],"ClientPageRoot"]
+3:I[52683,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3urocd201did3.js","/_next/static/chunks/0pyc2b04r1ucd.js","/_next/static/chunks/1_kdzz48cb5_0.js","/_next/static/chunks/0q9wuhh0yv5ps.js"],"default"]
+6:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3urocd201did3.js","/_next/static/chunks/0pyc2b04r1ucd.js","/_next/static/chunks/1_kdzz48cb5_0.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+b:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3urocd201did3.js","/_next/static/chunks/0pyc2b04r1ucd.js","/_next/static/chunks/1_kdzz48cb5_0.js"],"ViewportBoundary"]
+c:I[97367,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3urocd201did3.js","/_next/static/chunks/0pyc2b04r1ucd.js","/_next/static/chunks/1_kdzz48cb5_0.js"],"MetadataBoundary"]
+d:I[27201,["/_next/static/chunks/0h2qsuyze9ds1.js","/_next/static/chunks/3urocd201did3.js","/_next/static/chunks/0pyc2b04r1ucd.js","/_next/static/chunks/1_kdzz48cb5_0.js"],"IconMark"]
+a:X
+0:{"buildId":"GIxYHvpHU0mPW3YAfN1UU","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/_next/static/chunks/0q9wuhh0yv5ps.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$Lb",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"NANBA TEAM — Humanize Your Brand. Consistently."}],["$","meta","1",{"name":"description","content":"A high-touch boutique social media studio crafting authentic short-form video content, reels and page management for founders, creators and indie brands."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.1oj3ag_hqwmh9.ico","sizes":"64x64","type":"image/x-icon"}],["$","link","3",{"rel":"icon","href":"/icon.png?icon.25h7l8lnt34qs.png","sizes":"512x512","type":"image/png"}],["$","$Ld","4",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@e","staleTime":"$a","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@f","rootVaryParams":null,"needsRuntimeRequest":"$@10"}
+4:{}
+5:"$0:data:0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
+10:true
+a:300
+a:C
+f:0
+e:"$undefined"
+9:"$undefined"
